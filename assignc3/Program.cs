@@ -10,7 +10,7 @@ namespace assignc3
             Random random = new Random();
             int randomNumberEasy = random.Next(1, 11);
             int randomNumberMedium = random.Next(1, 21);
-            int randomNumberHard = random.Next(1, 50);
+            int randomNumberHard = random.Next(1, 51);
 
             int guess;
             int NumberofGuessesEasy = 6;
